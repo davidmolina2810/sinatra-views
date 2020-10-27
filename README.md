@@ -65,7 +65,7 @@ We can create as many routes and views as we want. Let's create a route called "
 	end
 	
 	get "/info" do
-	  "Testing the info page"
+		"Testing the info page"
 	end
 ```
 
